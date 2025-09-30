@@ -39,7 +39,7 @@ Study-material/
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/Study-material.git
-````
+   ```
 
 2. Navigate into the project folder:
 
@@ -74,7 +74,7 @@ For any queries or suggestions, feel free to reach out:
 
 This project is licensed under the **MIT License** – free to use and share.
 
-```
+
 
 ---
 
